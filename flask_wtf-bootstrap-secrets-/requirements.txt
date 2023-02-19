@@ -1,0 +1,6 @@
+Flask==2.2.3
+flask
+
+pip install Flask-WTF
+pip install email_validation
+pip install Flask-Bootstrap
